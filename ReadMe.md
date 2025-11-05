@@ -1,0 +1,1 @@
+# this is repository for strating structure in any app
